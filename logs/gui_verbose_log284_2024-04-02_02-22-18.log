@@ -1,0 +1,1038 @@
+2024-04-02 02:22:18 [JavaFX Application Thread] core.SettingsProvider.load()
+[INFO] [] user settings loaded
+2024-04-02 02:22:18 [JavaFX Application Thread] core.World.<init>()
+[INFO] [setup] world initiated
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:22:21 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:45 [JavaFX Application Thread] core.SettingsProvider.load()
+[INFO] [] user settings loaded
+2024-04-02 02:23:45 [JavaFX Application Thread] core.World.<init>()
+[INFO] [setup] world initiated
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.graphml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[WARN] [] TCR_REDOX_METABOLOISM.zginml doesn't exist
+2024-04-02 02:23:48 [JavaFX Application Thread] core.World.setup()
+[INFO] [setup] tumor initiated
+2024-04-02 02:23:48 [JavaFX Application Thread] diffusion.DiffusibleBase.parseDiffusibles()
+[TRACE] [] Imported diffusible: DiffusibleBase{name='TNFA', initialConcentration=0.04, diffusionCoefficient=2.7E-11, threshold=1.0E-10, defaultConsumption=2.0E-17, inputNode='TNFalpha'}
+2024-04-02 02:23:48 [JavaFX Application Thread] diffusion.DiffusibleBase.parseDiffusibles()
+[TRACE] [] Imported diffusible: DiffusibleBase{name='EGF', initialConcentration=0.0, diffusionCoefficient=5.18E-11, threshold=1.0E-6, defaultConsumption=2.0E-17, inputNode='EGF'}
+2024-04-02 02:23:48 [JavaFX Application Thread] diffusion.DiffusibleBase.parseDiffusibles()
+[TRACE] [] Imported diffusible: DiffusibleBase{name='oxygen', initialConcentration=0.28, diffusionCoefficient=1.0E-9, threshold=0.022, defaultConsumption=3.0E-17, inputNode='oxygen_supply'}
+2024-04-02 02:23:48 [JavaFX Application Thread] diffusion.DiffusibleBase.parseDiffusibles()
+[TRACE] [] Imported diffusible: DiffusibleBase{name='lactate', initialConcentration=0.0, diffusionCoefficient=5.18E-11, threshold=1.0E-6, defaultConsumption=2.0E-17, inputNode='Acidosis'}
+2024-04-02 02:23:48 [JavaFX Application Thread] diffusion.DiffusibleBase.parseDiffusibles()
+[TRACE] [] Imported diffusible: DiffusibleBase{name='Nutrients', initialConcentration=0.0, diffusionCoefficient=5.18E-11, threshold=1.0E-6, defaultConsumption=2.0E-17, inputNode='Nutrients'}
+2024-04-02 02:23:48 [JavaFX Application Thread] core.World.setup()
+[INFO] [setup] diffusion model initiated
+2024-04-02 02:24:37 [pool-2-thread-1] update.PaceMaker.lambda$startClock$0()
+[INFO] [step] World 17001 - step <1>]
+2024-04-02 02:24:37 [pool-2-thread-1] core.World.update()
+[INFO] [] World 17001 starting update
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 23292 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 27032 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 26522 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 21762 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 31622 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 33832 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-10] core.Cell.update()
+[DEBUG] [] CD8 Cell 29582 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 21422 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 30262 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 22612 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 31962 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 17512 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-13] core.Cell.update()
+[DEBUG] [] CD8 Cell 26352 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 22442 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-20] core.Cell.update()
+[DEBUG] [] CD8 Cell 19042 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-10] core.Cell.update()
+[DEBUG] [] CD8 Cell 22272 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 19212 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-18] core.Cell.update()
+[DEBUG] [] CD8 Cell 23802 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 22952 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 22782 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 19552 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 22102 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 28732 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 19722 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 21932 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 17002 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-2] core.Cell.update()
+[DEBUG] [] CD8 Cell 28562 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 23122 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-11] core.Cell.update()
+[DEBUG] [] CD8 Cell 26692 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-2] core.Cell.update()
+[DEBUG] [] CD8 Cell 32472 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-7] core.Cell.update()
+[DEBUG] [] CD8 Cell 28222 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 26862 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 29072 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 24312 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 24482 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 17172 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 33662 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 25332 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 25672 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-18] core.Cell.update()
+[DEBUG] [] CD8 Cell 31792 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 18192 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 20062 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 27882 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 29922 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-10] core.Cell.update()
+[DEBUG] [] CD8 Cell 20912 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 31282 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-4] core.Cell.update()
+[DEBUG] [] CD8 Cell 30942 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-10] core.Cell.update()
+[DEBUG] [] CD8 Cell 21592 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 21082 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-4] core.Cell.update()
+[DEBUG] [] CD8 Cell 24142 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-20] core.Cell.update()
+[DEBUG] [] CD8 Cell 18362 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 17682 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 29752 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 25842 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 17342 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 33152 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-17] core.Cell.update()
+[DEBUG] [] CD8 Cell 31112 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 33492 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 32642 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 32132 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 18702 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-13] core.Cell.update()
+[DEBUG] [] CD8 Cell 28052 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 31452 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 26012 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 30092 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 29412 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-3] core.Cell.update()
+[DEBUG] [] CD8 Cell 28902 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 26182 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-14] core.Cell.update()
+[DEBUG] [] CD8 Cell 30602 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 27542 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-14] core.Cell.update()
+[DEBUG] [] CD8 Cell 23972 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 20572 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-3] core.Cell.update()
+[DEBUG] [] CD8 Cell 25502 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-13] core.Cell.update()
+[DEBUG] [] CD8 Cell 32302 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 33322 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-3] core.Cell.update()
+[DEBUG] [] CD8 Cell 27372 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-17] core.Cell.update()
+[DEBUG] [] CD8 Cell 30772 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-13] core.Cell.update()
+[DEBUG] [] CD8 Cell 20402 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 32812 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-3] core.Cell.update()
+[DEBUG] [] CD8 Cell 19382 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-20] core.Cell.update()
+[DEBUG] [] CD8 Cell 20742 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-3] core.Cell.update()
+[DEBUG] [] CD8 Cell 24652 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-4] core.Cell.update()
+[DEBUG] [] CD8 Cell 24822 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-10] core.Cell.update()
+[DEBUG] [] CD8 Cell 24992 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 19892 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-8] core.Cell.update()
+[DEBUG] [] CD8 Cell 25162 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-18] core.Cell.update()
+[DEBUG] [] CD8 Cell 27202 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-15] core.Cell.update()
+[DEBUG] [] CD8 Cell 29242 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-16] core.Cell.update()
+[DEBUG] [] CD8 Cell 20232 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-12] core.Cell.update()
+[DEBUG] [] CD8 Cell 23632 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-2] core.Cell.update()
+[DEBUG] [] CD8 Cell 28392 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-7] core.Cell.update()
+[DEBUG] [] CD8 Cell 18532 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-11] core.Cell.update()
+[DEBUG] [] CD8 Cell 23462 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-13] core.Cell.update()
+[DEBUG] [] CD8 Cell 18022 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-9] core.Cell.update()
+[DEBUG] [] CD8 Cell 30432 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-17] core.Cell.update()
+[DEBUG] [] CD8 Cell 32982 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-6] core.Cell.update()
+[DEBUG] [] CD8 Cell 18872 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Cell.update()
+[DEBUG] [] CD8 Cell 21252 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-14] core.Cell.update()
+[DEBUG] [] CD8 Cell 17852 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [ForkJoinPool.commonPool-worker-19] core.Cell.update()
+[DEBUG] [] CD8 Cell 27712 updated, fate: no_fate_reached
+2024-04-02 02:24:37 [pool-2-thread-1] core.Tumor.tickAllCells()
+[INFO] [] cells ticked
+2024-04-02 02:24:37 [pool-2-thread-1] core.Tumor.tickAllCells()
+[INFO] [] starting proliferation
+2024-04-02 02:24:37 [pool-2-thread-1] core.Tumor.tickAllCells()
+[INFO] [] proliferation done
+2024-04-02 02:24:37 [pool-2-thread-1] core.World.update()
+[INFO] [] World 17001 cells ticked
+2024-04-02 02:24:37 [pool-2-thread-1] core.World.update()
+[INFO] [] World 17001 tumor update done
+2024-04-02 02:24:37 [pool-2-thread-1] core.World.update()
+[INFO] [] World 17001 diffusion agents update done

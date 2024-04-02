@@ -1,0 +1,6 @@
+2024-04-02 02:56:43 [JavaFX Application Thread] core.SettingsProvider.load()
+[INFO] [] user settings loaded
+2024-04-02 02:56:43 [JavaFX Application Thread] core.World.<init>()
+[INFO] [setup] world initiated
+2024-04-02 02:56:46 [JavaFX Application Thread] graph.SynchronousBooleanNetwork.loadGraphFile()
+[ERROR] [] Error importing from network external file
