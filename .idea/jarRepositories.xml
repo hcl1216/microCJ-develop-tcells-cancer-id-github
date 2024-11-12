@@ -14,6 +14,11 @@
     <remote-repository>
       <option name="id" value="local-libs" />
       <option name="name" value="local" />
+      <option name="url" value="file:///C:\oncologyphd\microCJ-develop-tcells-cancer-id-github\microCJ-develop\gui/local-libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-libs" />
+      <option name="name" value="local" />
       <option name="url" value="file:///C:\oncologyphd\microCJ-develop-tcells-cancer-id\microCJ-develop\gui/local-libs" />
     </remote-repository>
     <remote-repository>

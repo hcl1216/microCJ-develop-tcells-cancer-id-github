@@ -360,7 +360,7 @@ public class SynchronousBooleanNetwork implements Network {
 	}
 	private static Graph<Node, Edge> loadGraphFile(String filename, Graph<Node, Edge> graph, GraphImporter<Node, Edge> importer) {
 		File file = null;
-		File graphmlFile = new File(filename + ".graphml");
+		File graphmlFile = new File("C:/oncologyphd/microCJ-develop-tcells-cancer-id/microCJ-develop/core/src/main/resources/"+filename + ".graphml");
 		if (graphmlFile.exists()) {
 			file = graphmlFile;
 		} else {

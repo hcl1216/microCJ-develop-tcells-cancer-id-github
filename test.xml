@@ -4,16 +4,17 @@
 		 and so on. For strings and booleans [true-false]. ONLY ONE setting can be sensitivity analysed at a time -->
   <general>
     <starting-cells>100</starting-cells>
-    <starting-cancercells>10</starting-cancercells>
-    <starting-cd4cells>10</starting-cd4cells>
+    <starting-cancercells>50</starting-cancercells>
+    <starting-cd4cells>50</starting-cd4cells>
     <!--in um-->
     <cell-radius>10</cell-radius>
     <!-- if this is left blank or with a non-present filename, the default one will be used -->
     <graph-file>prostate cancer modified</graph-file>
     <!-- if this is left blank or with a non-present filename, the default one will be used -->
-    <cancer-graph-file>prostate cancer modified</cancer-graph-file>
+    <cancer-graph-file>prostatecancermodified</cancer-graph-file>
     <!-- if this is left blank or with a non-present filename, the default one will be used -->
-    <cd4-graph-file>TCR-REDOX-METABOLISM</cd4-graph-file>
+    <cd4-graph-file>rodrigeuez_tcr_tlr5</cd4-graph-file>
+    <fba-file>tnbc-Lkynr</fba-file>
     <!--number of steps that must pass before a proliferation/growth arrest decision can be made -->
     <decision-window>10</decision-window>
     <!--number of steps a cell will be under growth arrest after that fate has been activated -->
@@ -26,7 +27,7 @@
     <diffusion-grid-size>4</diffusion-grid-size>
     <!-- in um -->
     <diffusion-voxel-size>20</diffusion-voxel-size>
-    <shoving>false</shoving>
+    <shoving>true</shoving>
     <!-- Chance of a node randomly mutating. Set to 0 to deactivate random mutations -->
     <random-mutations>0</random-mutations>
     <!-- Whether cells belonging to the same mutation group are placed close together -->
@@ -61,36 +62,46 @@
   <!-- If gene-status-data.parse is true, the mutation groups have to share name with a cluster from the data. -->
   <mutations>
     <group>
-      <name>cancer</name>
+      <name>cancerEGFR+p53-</name>
       <celltype>cancer</celltype>
-      <percent>0</percent>
+      <percent>50</percent>
       <mutation>
         <node>EGFR</node>
         <sign>true</sign>
         <p>1000</p>
       </mutation>
       <mutation>
-        <node>FGFR3</node>
-        <sign>true</sign>
+        <node>TNFA</node>
+        <sign>false</sign>
         <p>1000</p>
       </mutation>
       <mutation>
-        <node>Nutrients_transport</node>
-        <sign>true</sign>
+        <node>p53</node>
+        <sign>false</sign>
         <p>1000</p>
       </mutation>
       <mutation>
-        <node>AR</node>
-        <sign>true</sign>
+        <node>IDO1</node>
+        <sign>false</sign>
         <p>1000</p>
       </mutation>
     </group>
     <group>
-      <name>CD4</name>
+      <name>CD4TCR+TLR5+CD28+CD4+CD45+CD6+</name>
       <celltype>cd4</celltype>
-      <percent>100</percent>
+      <percent>50</percent>
+      <mutation>
+        <node>KYN_out</node>
+        <sign>false</sign>
+        <p>1000</p>
+      </mutation>
       <mutation>
         <node>TCR</node>
+        <sign>true</sign>
+        <p>1000</p>
+      </mutation>
+      <mutation>
+        <node>TLR5</node>
         <sign>true</sign>
         <p>1000</p>
       </mutation>
@@ -105,62 +116,12 @@
         <p>1000</p>
       </mutation>
       <mutation>
-        <node>CD6</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
         <node>CD45</node>
         <sign>true</sign>
         <p>1000</p>
       </mutation>
       <mutation>
-        <node>RASA1</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>GADD45A</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>PTPN22</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>RCAN1</node>
-        <sign>false</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>Akap5</node>
-        <sign>false</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>Bcl10</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>Kinases</node>
-        <sign>false</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>Malt1</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>RAC1</node>
-        <sign>true</sign>
-        <p>1000</p>
-      </mutation>
-      <mutation>
-        <node>CCBL</node>
+        <node>CD6</node>
         <sign>true</sign>
         <p>1000</p>
       </mutation>
@@ -175,11 +136,11 @@
       <type>factor</type>
       <input-node>TNFalpha</input-node>
       <output-node>TNFA</output-node>
-      <initial-concentration>0.04</initial-concentration>
+      <initial-concentration>0</initial-concentration>
       <diffusion-coefficient>2.7e-11</diffusion-coefficient>
-      <threshold>1.0E-10</threshold>
-      <consumption>2E-17</consumption>
-      <production>5E-4</production>
+      <threshold>1.0E-15</threshold>
+      <consumption>1.0E-15</consumption>
+      <production>1E-10</production>
     </diffusible>
     <diffusible>
       <name>EGF</name>
@@ -189,8 +150,8 @@
       <initial-concentration>0</initial-concentration>
       <diffusion-coefficient>5.18E-11</diffusion-coefficient>
       <threshold>1E-6</threshold>
-      <consumption>2E-17</consumption>
-      <production>5E-4</production>
+      <consumption>1E-6</consumption>
+      <production>5E-2</production>
     </diffusible>
     <diffusible>
       <name>oxygen</name>
@@ -210,7 +171,7 @@
       <type>factor</type>
       <input-node>Acidosis</input-node>
       <output-node>Lactic_acid</output-node>
-      <initial-concentration>0</initial-concentration>
+      <initial-concentration>1E-6</initial-concentration>
       <diffusion-coefficient>5.18E-11</diffusion-coefficient>
       <threshold>1E-6</threshold>
       <consumption>2E-17</consumption>
@@ -221,14 +182,28 @@
       <type>factor</type>
       <input-node>Nutrients</input-node>
       <output-node>Nutrients_out</output-node>
-      <initial-concentration>0</initial-concentration>
+      <initial-concentration>0.01</initial-concentration>
       <diffusion-coefficient>5.18E-11</diffusion-coefficient>
       <threshold>1E-6</threshold>
-      <consumption>2E-17</consumption>
-      <production>5E-4</production>
+      <consumption>1E-6</consumption>
+      <production>1E-12</production>
+    </diffusible>
+    <diffusible>
+      <name>lkynr</name>
+      <type>factor</type>
+      <input-node>KYN</input-node>
+      <output-node>KYN_out</output-node>
+      <initial-concentration>0</initial-concentration>
+      <diffusion-coefficient>5.18E-11</diffusion-coefficient>
+      <threshold>1</threshold>
+      <consumption>1.0E-15</consumption>
+      <production>1.0E-12</production>
     </diffusible>
   </diffusibles>
-  <stats filename="stats-default"/>
+  <stats filename="stats-defaultcancercd4">
+    <stat>alive_cell_count</stat>
+    <stat>alive_cell_count_by_group</stat>
+  </stats>
   <!-- other possible stats:
 		cells_expressing_node_by_group
 		real_time -->
@@ -241,5 +216,10 @@
 	node_status_by_cell
 	gene_rules_by_cell
 	concentration_by_voxel
-	coordinates_by_cell-->
+	coordinates_by_cell
+
+	    <stat option="KYN">cells_expressing_node_by_group</stat>
+    <stat option="TNFalpha">cells_expressing_node_by_group</stat>
+
+    -->
 </settings>

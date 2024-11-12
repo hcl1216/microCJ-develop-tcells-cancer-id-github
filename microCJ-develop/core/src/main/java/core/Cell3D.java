@@ -28,8 +28,8 @@ public class Cell3D extends Cell implements Agent3D {
 	 * @param randomiseDecisionWindow Whether the start of the decision window should be random or not.
 	 * @param updateCollector for detecting apoptosis or necrosis updates
 	 */
-	public Cell3D(double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector) {
-		super(radius, celltype, graphFile,randomiseDecisionWindow, updateCollector);
+	public Cell3D(double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector, String cellid) {
+		super(radius, celltype, graphFile,randomiseDecisionWindow, updateCollector, cellid);
 	}
 
 	/**
@@ -41,8 +41,8 @@ public class Cell3D extends Cell implements Agent3D {
 	 * @param randomiseDecisionWindow Whether the start of the decision window should be random or not.
 	 * @param updateCollector         for detecting apoptosis or necrosis updates
 	 */
-	public Cell3D(Point3D location, double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector) {
-		this(radius, celltype, graphFile, randomiseDecisionWindow, updateCollector);
+	public Cell3D(Point3D location, double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector, String cellid) {
+		this(radius, celltype, graphFile, randomiseDecisionWindow, updateCollector, cellid);
 		this.location = location;
 	}
 
@@ -64,7 +64,7 @@ public class Cell3D extends Cell implements Agent3D {
 
 
 	public Cell createCopy() {
-		return new Cell3D(radius, celltype, graphFile, true,updateCollector);
+		return new Cell3D(radius, celltype, graphFile, true,updateCollector, cellid);
 	}
 
 	@Override

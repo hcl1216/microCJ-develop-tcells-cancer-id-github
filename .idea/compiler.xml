@@ -21,12 +21,6 @@
         <module name="cli" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cli" target="16" />
-      <module name="core" target="16" />
-      <module name="gui" target="16" />
-      <module name="parent" target="16" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

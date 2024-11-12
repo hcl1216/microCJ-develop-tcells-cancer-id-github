@@ -26,10 +26,7 @@ public enum Fate {
 		cell.arrest();
 	}),
 
-	ANERGY((cell, tumor) -> {
 
-
-	}),
 	ACTINREM((cell, tumor) -> {
 
 	}),
@@ -42,11 +39,21 @@ public enum Fate {
 	AICYTOKINES((cell, tumor) -> {
 
 	}),
+
+	ANERGY((cell, tumor) -> {
+		cell.apoptose();
+	}),
 	PROLIFERATION((cell, tumor) -> {
 		tumor.addToProliferationQueue(cell);
 
 	}),
-	NO_FATE_REACHED(((cell, tumor) -> {}));
+
+
+
+	NO_FATE_REACHED(((cell, tumor) -> {})),
+
+
+	;
 
 
 	private final FateExecution executionRule;

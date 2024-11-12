@@ -15,6 +15,7 @@ public abstract class Cell extends Identifier implements Agent {
 	private static NetworkType networkType;
 	private static String initial;
 	public final String celltype;
+	public final String cellid;
 	protected final String graphFile;
 	protected final UpdateCollector updateCollector;
 	protected Network network;
@@ -27,11 +28,12 @@ public abstract class Cell extends Identifier implements Agent {
 	private Fate lastActivatedFate = Fate.NO_FATE_REACHED;
 	private Subpopulation subpopulation;
 
-	public Cell(double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector) {
+	public Cell(double radius, String celltype, String graphFile, boolean randomiseDecisionWindow, UpdateCollector updateCollector, String cellid) {
 		this.radius = radius;
 		this.celltype = celltype;
 		this.graphFile = graphFile;
 		this.updateCollector = updateCollector;
+		this.cellid = cellid;
 		network = switch(networkType){
 			case PROB -> ProbabilisticBooleanNetwork.randomlyActivatedGraph(graphFile, randomiseDecisionWindow, initial);
 			case SYNC -> SynchronousBooleanNetwork.randomlyActivatedGraph(graphFile, randomiseDecisionWindow, initial);

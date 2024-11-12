@@ -54,6 +54,9 @@ class Voxel extends Identifier {
 	double getCellProductionIndex(Factor factor){
 		return cellsHere.stream().filter(Cell::isAlive).filter(cell -> cell.isExpressing(factor.getOutputNode())).mapToDouble(cell -> cell.isArrested() ? 0.5 : 1).sum();
 	}
+	List<Cell> getCellProductionHere(Factor factor){
+		return cellsHere.stream().filter(Cell::isAlive).filter(cell -> cell.isExpressing(factor.getOutputNode())).collect(Collectors.toList());
+	}
 
 	Stream<Cell> getAliveCellsHere(){
 		return cellsHere.stream().filter(Cell::isAlive);

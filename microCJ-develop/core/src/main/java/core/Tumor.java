@@ -19,6 +19,7 @@ import update.Updatable;
 import update.Update;
 import update.UpdateCollector;
 import update.UpdateFlag;
+import graph.FBA;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -45,6 +46,7 @@ public class Tumor {
 	private final int initialNumbercd4;
 	private final Distributor distributor;
 	private final Queue<Cell> proliferationQueue = new ConcurrentLinkedQueue<>();
+	public static Map<String, String> fbadata;
 
 	private Map<Subpopulation, Integer> deadCellsAtLastStep = new HashMap<>();
 
@@ -74,6 +76,11 @@ public class Tumor {
 		boolean cachePositions = SETTINGS_PROVIDER.getGeneralBoolean("cache-positions");
 		double gap = cellRadius * 2;
 
+		String fbafile = SETTINGS_PROVIDER.getGeneralString("fba-file");
+		this.fbadata = FBA.loadFBA(fbafile);
+		List<String> cancercellids = FBA.getCellId(fbadata);
+		int setinitialnumber = cancercellids.size();
+
 		distributor = spatial ? new ImporterDistributor(gap) :
 				selectDistributor(twoDim ? distributor2DType : distributor3DType, gap, cachePositions);
 		distributor.populate(initialNumber);
@@ -83,25 +90,29 @@ public class Tumor {
 		String cd4graphFile = SETTINGS_PROVIDER.getGeneralString("cd4-graph-file");
 		String cancer = "cancer";
 		String cd4 = "cd4";
+		String cellid = "cellid";
 		if (twoDim) {
 			if (spatial) {
 				//in spatial data simulations, cells will be given a location along with their subpopulation and identity
 				int total = distributor.getTotal();
 				for (int i = 0; i < total; i++) {
 					cellList.add(new Cell2D(cellRadius, cancer, graphFile,
-							true, updateCollector));
+							true, updateCollector,cellid));
 				}
 			} else {
 				int i=0;
 				var distributor2D = (Distributor2D) distributor;
 				for (Point2D location : distributor2D.getLocations()) { //create all initial cells
-					if(i<this.initialNumbercancer) {
+					if(i<setinitialnumber && initialNumbercancer>0) {
+						String cancercellid = cancercellids.get(i);
 						cellList.add(new Cell2D(location, cancer, cellRadius, cancergraphFile,
-								true, updateCollector));
+								true, updateCollector,cancercellid));
 						i++;
 					} else{
+						cellid = cellid + i;
 						cellList.add(new Cell2D(location, cd4, cellRadius, cd4graphFile,
-								true, updateCollector));
+								true, updateCollector,cellid));
+						i++;
 					}
 				}
 			}
@@ -111,11 +122,11 @@ public class Tumor {
 			for (Point3D location : distributor3D.getLocations()) { //create all initial cells
 				for (int i = 0; i < this.initialNumbercancer; i++) {
 					cellList.add(new Cell3D(location, cellRadius, cancer, cancergraphFile,
-							true, updateCollector));
+							true, updateCollector, cellid));
 				}
 				for (int i = 0; i < this.initialNumbercd4; i++) {
 					cellList.add(new Cell3D(location, cellRadius, cd4, cd4graphFile,
-							true, updateCollector));
+							true, updateCollector,cellid));
 				}
 			}
 		}
@@ -381,10 +392,21 @@ public class Tumor {
 	 * Returns a Map containing the total alive cells count per subpopulation. This count excludes dead cells
 	 *
 	 * @return a Map of subpopulation names as String keys and cell counts as int values.
-	 */
+
 	public Map<String, Integer> getSubpopulationAliveCounts() {
 		return subpopulations.stream().collect(Collectors.toMap(Subpopulation::getName,
 				mutationGroup -> (int) cellList.stream().filter(Cell::isAlive)
 						.filter(cell -> Objects.equals(cell.getSubpopulation().orElse(null), mutationGroup)).count()));
 	}
+	 */
+
+	public Map<String, Integer> getSubpopulationAliveCounts() {
+		List<Cell> cellListSnapshot = new ArrayList<>(cellList); // Create a snapshot
+		List<Subpopulation> subpopulationsSnapshot = new ArrayList<>(subpopulations); // Create a snapshot
+
+		return subpopulationsSnapshot.stream().collect(Collectors.toMap(Subpopulation::getName,
+				mutationGroup -> (int) cellListSnapshot.stream().filter(Cell::isAlive)
+						.filter(cell -> Objects.equals(cell.getSubpopulation().orElse(null), mutationGroup)).count()));
+	}
+
 }

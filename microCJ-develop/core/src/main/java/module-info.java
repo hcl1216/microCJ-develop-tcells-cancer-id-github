@@ -20,5 +20,4 @@ module microCJ.core {
 	requires commons.csv;
 	requires org.tinylog.api;
 	requires zip4j;
-	requires engine;
 }

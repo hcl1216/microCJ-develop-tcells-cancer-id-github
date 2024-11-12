@@ -13,6 +13,7 @@ import core.Cell;
 import diffusion.utils.ElementProvider;
 import diffusion.utils.threeDim.GrowableMatrix;
 import diffusion.utils.twoDim.Position2D;
+import core.Tumor;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
@@ -162,7 +163,14 @@ public abstract class DiffusionLattice implements DiffusionModel {
 					}
 
 					if (diffusible instanceof Factor factor) {
-						production = currentVoxel.getCellProductionIndex(factor) * factor.getDefaultProduction();
+						if(diffusible.getName().equals("lkynr")){
+							for(Cell cell : currentVoxel.getCellProductionHere(factor)){
+								production += Double.valueOf(Tumor.fbadata.get(cell.cellid))*60*60*2.5E-8*0.001;
+							}
+						}
+						else {
+							production = currentVoxel.getCellProductionIndex(factor) * factor.getDefaultProduction();
+						}
 					}
 				}
 
